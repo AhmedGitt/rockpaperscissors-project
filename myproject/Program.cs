@@ -111,7 +111,7 @@ namespace ROCKPAPERSCISSORS
 
                 }
 
-                Console.WriteLine("Do you want to play again?(y/n)");
+                Console.WriteLine("Do you want to play the again?(y/n)");
                 string loop = Console.ReadLine();
                 if (loop == "y")
                 {
